@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+	background-image: linear-gradient(45deg,#573AC4FF,#981BE3FF);
+	margin-top: 150px;
+	margin-right: 0;
+	margin-left: 0;
+	padding: 0;
+	font-family: 'Merienda';
+}
+
+
+div.top {
+	box-shadow: 5px 5px 10px 10px rgba(0,0,0,0.5);
+	top: 0;
+	position: absolute;
+	background-image: linear-gradient(45deg,#000,#5B5B5BFF);
+	color: #BBB;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+}
+
+div.top_middle {
+	font-size: 70px;
+}
+
+a {
+	color: #BCE717FF;
+}
+
+p {
+	color: #1EE68CFF;
+	margin: 20px;
+}
+
+h2 {
+	color: #ED7B39FF;
+	text-align: center;
+}
+
+h3 {
+	color: #ED7B39FF;
+	margin: 15px;
+}

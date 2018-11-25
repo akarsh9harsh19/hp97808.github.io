@@ -1,0 +1,51 @@
+body{
+    margin: 30px;
+}
+
+table{
+    border-spacing: 8px;
+    border-radius: 2%;
+    padding: 4px;
+    background-color: rgba(186,186,186,0.5);
+    height: 1200px;
+    width: 100%;
+
+}
+
+#mainInput{
+    text-align: right;
+    width: 98%;
+}
+
+input{
+    background-color: rgb(186,186,186);
+    border-radius: 10%;
+    font-size: 85px;
+    color: rgba(0,0,0,0.4);
+    padding: 4px;
+    height: 100%;
+    width: 100%;
+}
+
+.num,
+.char,
+#back{
+    border-radius: 10%;
+    transition: 0.1s;
+}
+
+.num:hover{
+    background-color: #B4FF14;
+}
+
+.char:hover{
+    background-color: #F69B08FF;
+}
+
+#clearAll{
+    transition: 0.1s;
+}
+
+#clearAll:hover{
+    background-color: #DE4520FF;
+}
