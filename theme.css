@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Merienda');
 
 body {
-	background-image: linear-gradient(45deg,#573AC4FF,#981BE3FF);
+	/*background-image: linear-gradient(45deg,#573AC4FF,#981BE3FF);*/
+	background-image: url('bg.jpg');
 	margin-top: 150px;
 	margin-left:40px;
 	margin-right:40px;
