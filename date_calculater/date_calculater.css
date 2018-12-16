@@ -1,3 +1,7 @@
 div.dateCalc, input, select {
 	font-size: 60px;
 }
+
+input#year {
+	width: 400px;
+}
