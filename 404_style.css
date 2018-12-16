@@ -6,6 +6,10 @@ h2 {
 	color: #F3520BFF;
 }
 
+h3 {
+	color: #EC9112;
+}
+
 body {
 	background-image: url('bg.jpg');
 	background-size: cover; 
